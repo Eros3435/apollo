@@ -3,7 +3,7 @@
 .flexbox-container {
   display: flex;
   flex-direction: column;
-  justify-content: flex-start; /* Align flex items to the left side */
+  justify-content: flex-start; 
 }
 
 .flexbox-item p {
@@ -21,7 +21,7 @@
 
 .flexbox-item-1 {
   display: flex;
-  flex-direction: row-reverse; 
+  flex-direction: row; 
   align-items: center;
   min-height: 100px;
   min-width: 100px;
