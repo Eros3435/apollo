@@ -1,3 +1,8 @@
+@media (max-width: 768px) {
+  .flexbox-item {
+    margin-right: 10px;
+  }
+}
 
 .flexbox-container {
   display: flex;
